@@ -1,0 +1,126 @@
+#leftb{
+	width:11%;
+	background-color:#f5f6f8;
+	height: 100vh;
+	padding-top: 8vh;
+	box-sizing: border-box;
+	float:left;
+}
+
+#solde_p{
+	background: url('../img/icon_valide.png') no-repeat scroll 7px 7px;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 2em;
+	margin-left: 0.7em;
+	
+}
+
+#solde_p:hover{
+	background: url('../img/icon_valide.png') no-repeat scroll 7px 7px ;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 2em;
+	margin-left: 0.7em;
+	cursor: pointer;
+	background-color:#eeeeee;
+}
+
+#depot_p{
+	background: url('../img/icon_euros.png') no-repeat scroll 7px 7px ;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 1em;
+	margin-left: 0.7em;
+	
+}
+
+#depot_p:hover{
+	background: url('../img/icon_euros.png') no-repeat scroll 7px 7px ;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 1em;
+	margin-left: 0.7em;
+	cursor: pointer;
+	background-color:#eeeeee;
+	
+}
+
+#virement_p{
+	background: url('../img/icon_euros.png') no-repeat scroll 7px 7px;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 1em;
+	margin-left: 0.7em;
+	
+}
+
+#virement_p:hover{
+	background: url('../img/icon_euros.png') no-repeat scroll 7px 7px ;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 1em;
+	margin-left: 0.7em;
+	cursor: pointer;
+	background-color:#eeeeee;
+}
+
+#alerte_p{
+	background: url('../img/icon_error.png') no-repeat scroll 7px 7px ;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 1em;
+	margin-left: 0.7em;
+	
+}
+
+#alerte_p:hover{
+	background: url('../img/icon_error.png') no-repeat scroll 7px 7px ;
+	background-position: 5% 60%; 
+	background-size: 40px 35px;
+	border-radius: 2em;
+	line-height: 50px;
+	padding-left: 35%;
+	font-weight: bold;
+	width:50%;
+	margin-top: 1em;
+	margin-left: 0.7em;
+	cursor: pointer;
+	background-color:#eeeeee;
+	
+}

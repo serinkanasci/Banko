@@ -1,0 +1,34 @@
+[0218/003536.762:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.809:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.810:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.814:ERROR:exception_snapshot_win.cc(98)] thread ID 7824 not found in process
+[0218/003536.853:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0218/003536.861:ERROR:exception_snapshot_win.cc(98)] thread ID 5980 not found in process
+[0218/003536.873:ERROR:exception_snapshot_win.cc(98)] thread ID 22212 not found in process
+[0218/003536.883:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.883:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.883:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.883:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.883:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.883:ERROR:exception_snapshot_win.cc(98)] thread ID 16804 not found in process
+[0218/003536.903:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0218/003536.903:ERROR:exception_snapshot_win.cc(98)] thread ID 10940 not found in process
+[0218/003536.913:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0218/003536.913:ERROR:exception_snapshot_win.cc(98)] thread ID 18508 not found in process
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0218/003536.923:ERROR:exception_snapshot_win.cc(98)] thread ID 20388 not found in process

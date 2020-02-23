@@ -1,0 +1,79 @@
+.virement{
+	float:right;
+	vertical-align: top;
+	color:black;
+	width:89%;
+	height:100vh;
+	padding-top: 8vh;
+	box-sizing: border-box;
+	overflow-wrap: normal;
+	font-weight:500;
+}
+
+#form_montant_v{
+	border: none;
+	background-color: #f5f6f8;
+	background-position: 3% 1%; 
+	padding-left:35px;
+	border-radius: 20px;
+	line-height: 50px;
+	font-size: 1em;
+	width:28%;
+
+}
+
+#form_dest_v{
+	margin-top: 3%;
+	border: none;
+	background-color: #f5f6f8;
+	background-position: 3% 1%; 
+	padding-left:35px;
+	border-radius: 20px;
+	line-height: 50px;
+	font-size: 1em;
+	width:28%;
+
+}
+
+#form_com_v{
+	margin-top: 3%;
+	border: none;
+	background-color: #f5f6f8;
+	background-position: 3% 1%; 
+	padding-left:35px;
+	border-radius: 20px;
+	line-height: 50px;
+	font-size: 1em;
+	width:28%;
+
+}
+
+#form_buttonv{
+	border: none;
+	background-color: #eeeeee;
+	background-position: 3% 1%; 
+	border-radius: 20px;
+	line-height: 50px;
+	font-size: 1em;
+	width:28%;
+	margin-left:2%;
+
+}
+
+#form_buttonv:hover{
+	border: none;
+	background-color: #eeeeee;
+	background-position: 3% 1%; 
+	border-radius: 20px;
+	line-height: 50px;
+	font-size: 1em;
+	width:28%;
+	margin-left:2%;
+	cursor:pointer;
+
+}
+
+#form_virement{
+	margin-left:37%;
+	margin-top:10%;
+}

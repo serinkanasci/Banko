@@ -1,0 +1,24 @@
+.create-css{
+	float:right;
+	vertical-align: top;
+	color:black;
+	width:89%;
+	height:100vh;
+	padding-top: 8vh;
+	box-sizing: border-box;
+	overflow-wrap: normal;
+	font-weight:500;
+}
+
+
+#form_create{
+	margin-top:5%;
+	margin-left:30%;
+}
+
+#chargement{
+	font-size:3em;
+	font-weight:bold;
+ 	margin-left:30%;
+ 	margin-top:18%;
+}

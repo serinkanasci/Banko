@@ -1,0 +1,11 @@
+.alerte{
+	float:right;
+	vertical-align: top;
+	color:black;
+	width:89%;
+	height:100vh;
+	padding-top: 8vh;
+	box-sizing: border-box;
+	overflow-wrap: normal;
+	font-weight:500;
+}

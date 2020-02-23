@@ -1,0 +1,81 @@
+html,body{margin:0;padding:0;}
+h1,p{margin:0 0 1em}
+
+#img_proviso {
+	background-color:#141B4D;
+	position:absolute;
+	height:100%;
+	width:11%;
+	text-align: center;
+}
+
+
+#proviso_nom {
+	position:absolute;
+	color:black;
+	margin-top:0.5%;
+	margin-left:80%;
+	font-size:0.7em;
+	height:100%;
+}
+#proviso_title{
+	position:absolute;
+	color:black;
+	margin-top:0.5%;
+	margin-left:15%;
+	font-size:1.2em;
+}
+
+.header {
+	position:absolute;
+	text-align: center;
+	color: white;
+	font-size: 2em;
+	height:8vh;
+	width:100%;
+	border-bottom: 2px solid #f5f6f8;
+	box-sizing: border-box;
+	
+}
+
+#logo_proviso_white{
+	width:90%;
+}
+
+#logo_profil{
+	width:7%;
+	margin-top:5%;
+	margin-right:6%;
+}
+
+#logo_profil:hover{
+	width:7%;
+	margin-top:5%;
+	margin-right:6%;
+	cursor:pointer;
+}
+
+#logout{
+	width:7%;
+	margin-top:5%;
+	margin-right:6%;
+}
+
+#logout:hover{
+	width:7%;
+	margin-top:5%;
+	margin-right:6%;
+	cursor:pointer;
+}
+
+#banko{
+	font-weight: bold;
+  	justify-content: center;
+  	align-items: center;
+  	height: 50%;
+  	width: 100%;
+  	margin-top:6.5%;
+
+}
+
+

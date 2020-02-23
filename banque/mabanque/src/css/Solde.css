@@ -1,0 +1,63 @@
+.solde{
+	float:right;
+	vertical-align: top;
+	color:black;
+	width:89%;
+	height:100vh;
+	padding-top: 8vh;
+	box-sizing: border-box;
+	overflow-wrap: normal;
+	font-weight:500;
+}
+
+
+#cli_op{
+	margin-top: 5%;
+	margin-left: 24.5%;
+	background-color:#eeeeee;
+	width:40%;
+	height:10%;
+	border-radius: 2em;
+}
+
+#txt_op{
+	padding-left: 6%;
+	padding-top: 3%;
+	font-weight: 1000;
+	font-size:1.4em;
+}
+#cli_op_list{
+	margin-top: 1%;
+	margin-left: 24.5%;
+	background-color:#eeeeee;
+	width:40%;
+	border-radius: 2em;
+}
+
+.txt_op_list{
+	padding-left: 6%;
+	padding-top: 3%;
+	font-size:0.7em;
+}
+.txt_op_list:last-child{
+	padding-left: 6%;
+	padding-top: 3%;
+	font-size:0.7em;
+	padding-bottom: 3%;
+}
+
+#cli_solde{
+	margin-top: 3%;
+	margin-left: 24.5%;
+	background-color: #f5f6f8;
+	width:25%;
+	height:10%;
+	border-radius: 2em;
+}
+
+#txt_solde{
+	padding-left: 20%;
+	padding-top: 5%;
+	font-weight: 400;
+	font-size:1.4em;
+}
